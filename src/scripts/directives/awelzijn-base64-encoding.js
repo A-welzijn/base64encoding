@@ -5,7 +5,7 @@
   } catch (e) {
     module = angular.module('a-welzijn.base64encoding', []);
   }
-  module.factory('aWelzijn-Base64Encoding', [function () {
+  module.factory('aWelzijnBase64Encoding', [function () {
     var keyStr = 'ABCDEFGHIJKLMNOP' +
       'QRSTUVWXYZabcdef' +
       'ghijklmnopqrstuv' +
