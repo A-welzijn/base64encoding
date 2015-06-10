@@ -1,9 +1,9 @@
 'use strict';
 (function (module) {
   try {
-    module = angular.module('a-welzijn.base64encoding');
+    module = angular.module('awelzijn.base64encoding');
   } catch (e) {
-    module = angular.module('a-welzijn.base64encoding', []);
+    module = angular.module('awelzijn.base64encoding', []);
   }
   module.factory('aWelzijnBase64Encoding', [function () {
     var keyStr = 'ABCDEFGHIJKLMNOP' +
