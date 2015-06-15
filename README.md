@@ -1,8 +1,19 @@
 # A-Welzijn Base64 encoding
 
-v1.0.3
+v1.0.4
 
 ### Hoe het te gebruiken
+
+```javascript
+"dependencies": {
+	"awelzijn-base64-encoding": "latest"
+ }
+```
+```javascript
+var app = angular.module('yourApp', [
+	'awelzijn.base64encoding'
+]);
+```
 
 Deze service wordt gebruikt om tekst te encoden naar Base64.
 

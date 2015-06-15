@@ -1,7 +1,7 @@
 {
   "name": "awelzijn-base64-encoding",
   "description": "Base64 encoding",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": {
     "type": "git",
     "url": "git@github.com:A-welzijn/base64encoding.git"
